@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>quwi-logo.png</file>
+        <file>quwiappicon.ico</file>
+    </qresource>
+</RCC>
